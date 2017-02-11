@@ -1,8 +1,9 @@
-<?php include 'common/configuration.php'?>
-<?php include 'view/header.php'?>
+<?php include('view/header.php');?>
     <p>
-        Try our new automated coffee request system:
+        Try our new appointment scheduling platform:
         <br><br>
-        <a href='requests/index.php'>Make a request.</a>
     </p>
-<?php include 'view/footer.php'?>
+
+    <p> <a href='requests/index.php'> Click me to schedule an appointment! </a></p>
+    <br>
+<?php include('view/footer.php');?>
