@@ -19,4 +19,7 @@
     	<option value="Saturday"?>Saturday</option>
     	<option value="Sunday"?>Sunday</option>
     </select>
+    <br>
+    <label>* Time</label>
+    	
     </fieldset>
